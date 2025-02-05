@@ -1,0 +1,42 @@
+body{
+  text-align:center;
+}
+div{
+  background-color:#F08080;
+}
+header{
+  border-color:black;
+  color:white;
+  padding:6px;
+}
+nav ul li{
+  display:inline;
+}
+ nav ul li a{
+   padding:6px;
+  color:pink;
+  font-size:10px;
+  text-decoration:none;
+}
+#Home {
+  height:600px;
+  width:600px;
+  border-radius:80℅;
+  position:center;
+}
+#Bio p{
+  margin:center;
+}
+#PortFolio{
+  background-color:#00FFFF;
+  padding-left:6px;
+}
+li{
+  display:inline;
+  padding:6px;
+}
+footer{
+  background-color:#4682B4;
+  color:#BDB76B;
+  padding:6px;
+}
